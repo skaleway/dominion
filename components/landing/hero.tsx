@@ -27,12 +27,7 @@ const Hero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Donate />
-              <a
-                href="#what-we-do"
-                className="bg-white/10 backdrop-blur-sm border border-white/20 py-2.5 px-6 text-white font-semibold text-sm rounded-lg hover:bg-white/20 transition-all duration-200 text-center"
-              >
-                Learn More
-              </a>
+             
             </div>
 
             {/* Statistics */}

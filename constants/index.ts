@@ -40,22 +40,7 @@ export const socialsIcons = () => {
         name: "facebook",
         icon: "/icons/facebook.svg",
         path: "https://www.facebook.com/Dominioncharityorganisation",
-      },
-      {
-        name: "Twitter",
-        icon: "/icons/twitter.svg",
-        path: "#",
-      },
-      {
-        name: "instagram",
-        icon: "/icons/instagram.svg",
-        path: "#",
-      },
-      {
-        name: "linkedin",
-        icon: "/icons/linkedin.svg",
-        path: "#",
-      },
+      }
     ],
     []
   );

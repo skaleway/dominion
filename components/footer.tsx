@@ -82,7 +82,7 @@ const Footer = () => {
         {/* Copyright and Social Links - Mobile */}
         <section className="flex flex-col lg:flex-row items-center justify-between gap-6">
           <p className="text-sm text-gray-400 text-center lg:text-left">
-            Copyright 2023 Walking In Dominion. All Rights Reserved
+            Copyright 2026 Walking In Dominion. All Rights Reserved
           </p>
           {/* Social Links - Mobile (shown below copyright) */}
           <div className="flex items-center gap-4 lg:hidden">
