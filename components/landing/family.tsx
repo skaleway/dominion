@@ -14,7 +14,8 @@ const Family = () => {
     "/icons/Founder.svg",
     "/icons/President.svg",
     "/icons/Secretary.svg",
-    "/icons/Finance.svg"
+    "/icons/Finance.svg",
+    "/icons/bocav.jpg"
   ];
 
   const names = [
@@ -33,6 +34,10 @@ const Family = () => {
     {
       name: "Awah Nicoline Sirri",
       position: "Treasurer"
+    },
+    {
+      name: "Mbih Bocav",
+      position: "Marketing and Communications Offier"
     }
   ];
 
@@ -53,7 +58,7 @@ const Family = () => {
           }}
           className="w-full"
         >
-          <CarouselContent className="-ml-2 md:-ml-4">
+          <CarouselContent className="-ml-2 md:-ml-4 grid grid-cols-5">
             {images.map((image, index) => (
               <CarouselItem
                 key={index}
