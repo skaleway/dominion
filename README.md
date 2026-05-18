@@ -1,6 +1,6 @@
 # Dominion Organization Website
 
-Welcome to the Dominion Organization Website repository! This project is built using Next.js and Sanity CMS to promote charity events, share news, and provide information about the organization.
+Welcome to the Dominion Organization Website repository! This project is built using Next.js and Sanity CMS to promote charity events, share news, and provide information about the organization. Let's make it happen.
 
 ## Table of Contents
 
